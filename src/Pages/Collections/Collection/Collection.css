@@ -1,0 +1,75 @@
+.collections {
+  background-color: #272727;
+}
+/* #1e1e29 */
+/* #feb800 */
+.collection-container {
+  width: 89%;
+  margin: auto;
+}
+.collection {
+  overflow: hidden;
+}
+
+.card img {
+  width: 400px;
+  height: 190px;
+}
+.card-body {
+  overflow: hidden;
+}
+.collection .rating {
+  position: absolute;
+
+  top: 50px;
+  left: 10px;
+}
+.collection .price {
+  background-color: #feb800;
+  padding: 12px 15px;
+  font-size: 22px;
+  font-weight: 700;
+  top: 210px;
+  left: 260px;
+  color: black;
+  position: absolute;
+}
+.collection .rating-text {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.purchase-btn {
+  background-color: #feb800;
+ 
+  font-size: 16px;
+  color: black;
+  font-weight: 600;
+  padding: 15px 15px;
+  text-align: left;
+  overflow: hidden;
+  margin: 0px auto 8px auto;
+}
+.card {
+  height: 400px;
+  color: white;
+  position: relative;
+  background-color: #1f1f24;
+}
+.card-body .des {
+  color: rgb(126, 121, 121);
+}
+.btn {
+  overflow: hidden;
+  width:190px
+}
+
+.card {
+  position: relative;
+  cursor: zoom-in;
+  transition: transform 0.5s ease;
+}
+
+.card:hover {
+  transform: scale(1.075);
+}

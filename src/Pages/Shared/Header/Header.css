@@ -1,0 +1,7 @@
+/* header styles */
+
+.banner{
+    background-image: url("../../../assets/bg-color.png");
+    width: 100vw;
+    height: 550px;
+}
