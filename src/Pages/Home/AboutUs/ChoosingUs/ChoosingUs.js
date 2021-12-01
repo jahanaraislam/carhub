@@ -26,8 +26,8 @@ const ChoosingUs = () => {
                 <img src={img1} alt="" />
               </div>
               <div class="content-text">
-                <h4>home pickup</h4>
-                <p>Quisque sollicitudin feugiat risus, eu posuere ex euismod eu. Phasellus hendrerit, massa efficitur.</p>
+                <h4>Home Delivery</h4>
+                <p>We take care of order fulfillment, collection, transport, tracking and delivery of cars. We are the first in Bangladesh to have created a unique network with </p>
               </div>
 
             </div>
@@ -42,7 +42,7 @@ const ChoosingUs = () => {
               <div class="content-text">
                 <h4>fast booking</h4>
 
-                <p>Quisque sollicitudin feugiat risus, eu posuere ex euismod eu. Phasellus hendrerit, massa efficitur.</p>
+                <p>We take care of order fulfillment, collection, transport, tracking and delivery of cars. We are the first in Bangladesh to have created a unique network with</p>
               </div>
 
             </div>
@@ -57,8 +57,8 @@ const ChoosingUs = () => {
                 <img src={img3} alt="" />
               </div>
               <div class="content-text">
-                <h4>bonuses for ride</h4>
-                <p>Quisque sollicitudin feugiat risus, eu posuere ex euismod eu. Phasellus hendrerit, massa efficitur.</p>
+                <h4>bonuses for New Booking</h4>
+                <p>We take care of order fulfillment, collection, transport, tracking and delivery of cars. We are the first in Bangladesh to have created a unique network with</p>
               </div>
 
             </div>
@@ -73,7 +73,7 @@ const ChoosingUs = () => {
               <div class="content-text">
                 <h4>gps searching</h4>
 
-                <p>Quisque sollicitudin feugiat risus, eu posuere ex euismod eu. Phasellus hendrerit, massa efficitur.</p>
+                <p>We take care of order fulfillment, collection, transport, tracking and delivery of cars. We are the first in Bangladesh to have created a unique network with</p>
               </div>
 
             </div>
@@ -88,7 +88,7 @@ const ChoosingUs = () => {
 
     </div>
 
-
+// end
 
   );
 };
