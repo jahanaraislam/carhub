@@ -87,8 +87,7 @@ const ChoosingUs = () => {
       </div>
 
     </div>
-
-// end
+// change
 
   );
 };
